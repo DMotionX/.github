@@ -15,7 +15,5 @@
 We welcome contributors, designers, translators, and creators from around the globe!
 - 🐞 **Report Issues:** Found a bug? Open an issue in our repository.
 - 💡 **Join Discussions:** Share your thoughts, artboards, and feature requests.
-- 💖 **Sponsor & Support:** Help us sustain server costs and active development.
-
 ---
 *Maintained with dedication by Mohamed Fadl & the DrawMotion Team.*
